@@ -1,96 +1,41 @@
-# =============== #
-# Unity generated #
-# =============== #
-[Ll]ibrary
-[Tt]emp
-[Oo]bj
-[Bb]uild
-[Bb]uilds
-Assets/AssetStoreTools*
-
-# ===================================== #
-# Visual Studio / MonoDevelop generated #
-# ===================================== #
-ExportedObj/
-obj/
-.consulo/
-*.svd
-*.userprefs
-*.csproj
-*.pidb
-*.suo
-*.sln
-*.user
-*.unityproj
-*.booproj
-*.tmp
-*.opendb
-
-# ===================== #
-# Unity3D generated meta files #
-#===================== #
+###
+# Unity folders and files
+###
+[Aa]ssets/AssetStoreTools*
+[Bb]uild/
+[Ll]ibrary/
+[Ll]ocal[Cc]ache/
+[Oo]bj/
+[Tt]emp/
+[Uu]nityGenerated/
+# file on crash reports
+sysinfo.txt
+# Unity3D generated meta files
 *.pidb.meta
-*.pdb.meta
 
-# ============ #
-# OS generated #
-# ============ #
+###
+# VS/MD solution and project files
+###
+[Ee]xportedObj/
+*.booproj
+*.csproj
+*.sln
+*.suo
+*.svd
+*.unityproj
+*.user
+*.userprefs
+*.pidb
+.DS_Store
+
+###
+# OS generated
+###
 .DS_Store
 .DS_Store?
 ._*
 .Spotlight-V100
 .Trashes
+Icon?
 ehthumbs.db
 Thumbs.db
-
-# ===================== #
-# Unity3D Generated File On Crash Reports #
-#===================== #
-sysinfo.txt
-
-# Builds
-*.exe
-*.apk
-*.unitypackage
-
-
-# ============ #
-#    Other     #
-# ============ #
-
-#ignoring pidb, they are just code completion caching data according to:
-# http://stackoverflow.com/questions/1022111/what-are-monodevelops-pidb-files
-*.pidb
-*.userprefs
-.vs/
-GiocoFinale21/ProjectSettings/QualitySettings.asset
-
-Profano Variabile/Library/Artifacts/1b/1b43ac514c39de9e3ffe405bf557aaca
-Profano Variabile/Library/Artifacts/72/720dc36beb2304e85e877239c26016df
-Profano Variabile/Library/Artifacts/a7/a76e0f846ae909b3a8bee6c886cc364e
-Profano Variabile/Library/Artifacts/aa/aac359c872ce35de9900a772f1cb867e
-Profano Variabile/Library/SceneVisibilityState.asset
-Profano Variabile/Library/SourceAssetDB
-Profano Variabile/Logs/AssetImportWorker0-prev.log
-Profano Variabile/Logs/AssetImportWorker0.log
-Profano Variabile/Logs/shadercompiler-AssetImportWorker0.log
-Profano Variabile/Logs/shadercompiler-UnityShaderCompiler.exe0.log
-Profano Variabile/Logs/shadercompiler-UnityShaderCompiler.exe1.log
-Profano Variabile/Library/ArtifactDB
-Profano Variabile/Library/Artifacts/08/08e6e724594923b7fd49245e818163a8
-Profano Variabile/Library/Artifacts/1b/1b43ac514c39de9e3ffe405bf557aaca
-Profano Variabile/Library/Artifacts/72/720dc36beb2304e85e877239c26016df
-Profano Variabile/Library/Artifacts/a7/a76e0f846ae909b3a8bee6c886cc364e
-Profano Variabile/Library/Artifacts/aa/aac359c872ce35de9900a772f1cb867e
-Profano Variabile/Library/SceneVisibilityState.asset
-Profano Variabile/Library/SourceAssetDB
-Profano Variabile/Logs/AssetImportWorker0.log
-Profano Variabile/Logs/shadercompiler-AssetImportWorker0.log
-Profano Variabile/Logs/shadercompiler-UnityShaderCompiler.exe0.log
-Profano Variabile/Logs/shadercompiler-UnityShaderCompiler.exe1.log
-Profano Variabile/Library/Artifacts/1d/1d8c4881ca6a985b0a5344ae0fda2c69
-Profano Variabile/Library/Artifacts/3e/3e12f89a90d3fa12eda8c351cfe0adcc
-Profano Variabile/Library/Artifacts/40/4003892f4e8a64b3399698f8772419fd
-Profano Variabile/Library/Artifacts/1d/1d8c4881ca6a985b0a5344ae0fda2c69
-Profano Variabile/Library/Artifacts/3e/3e12f89a90d3fa12eda8c351cfe0adcc
-Profano Variabile/Library/Artifacts/40/4003892f4e8a64b3399698f8772419fd

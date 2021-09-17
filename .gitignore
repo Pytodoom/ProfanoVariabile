@@ -1,11 +1,11 @@
 # =============== #
 # Unity generated #
 # =============== #
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
+[Ll]ibrary
+[Tt]emp
+[Oo]bj
+[Bb]uild
+[Bb]uilds
 Assets/AssetStoreTools*
 
 # ===================================== #
@@ -88,3 +88,9 @@ Profano Variabile/Logs/AssetImportWorker0.log
 Profano Variabile/Logs/shadercompiler-AssetImportWorker0.log
 Profano Variabile/Logs/shadercompiler-UnityShaderCompiler.exe0.log
 Profano Variabile/Logs/shadercompiler-UnityShaderCompiler.exe1.log
+Profano Variabile/Library/Artifacts/1d/1d8c4881ca6a985b0a5344ae0fda2c69
+Profano Variabile/Library/Artifacts/3e/3e12f89a90d3fa12eda8c351cfe0adcc
+Profano Variabile/Library/Artifacts/40/4003892f4e8a64b3399698f8772419fd
+Profano Variabile/Library/Artifacts/1d/1d8c4881ca6a985b0a5344ae0fda2c69
+Profano Variabile/Library/Artifacts/3e/3e12f89a90d3fa12eda8c351cfe0adcc
+Profano Variabile/Library/Artifacts/40/4003892f4e8a64b3399698f8772419fd
